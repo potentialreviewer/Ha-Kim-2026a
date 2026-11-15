@@ -1,4 +1,4 @@
 # Ha-Kim-2026a
-Code and data for the paper: *Semantic Networks as Clues: A Theoretical Foundation and Process Optimization for Semantic Network Construction.*
+Code and data for the paper: *Optimizing Semantic Network Construction Without Gold-Standard Edge Weights.*
 
-Although ClueNetwork, proposed in the paper, is designed as a reusable framework, it has not yet been implemented as a software library. Developing such a library requires efforts beyond those involved in proposing the framework itself, so it will be presented in a separate publication. This repository contains the code and data used in the experiments supporting the framework.
+ClueNetwork is a framework for semantic network construction, and the Jupyter notebooks uploaded to here were written to conduct the experiments for the proof of concept of the proposed framework.
